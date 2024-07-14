@@ -6,4 +6,8 @@ work/
 
 output/*
 
-data/*
+data/genome_test/Bisulfite_Genome/
+
+data/high_yield/*.fastq.gz
+
+data/low_yield/*.fastq.gz
